@@ -1,5 +1,7 @@
 # Memory game made with react
 
+## Click [here](https://magic-memory-one.vercel.app/) to Play
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
